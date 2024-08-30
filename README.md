@@ -1,7 +1,7 @@
-# my-favorite-stories-kodluyoruz-patika
-Patika.dev HTML Ödev 2
+# my-favorite-stories
+Patika Beginner Frontend Web Development Path Certification Task
+<br>My Favorite Stories
 
-https://www.patika.dev
-https://kodluyoruz.org/tr/kodluyoruz
+Browse: <https://cemcelikgh.github.io/my-favorite-stories/>
 
-![Better Call Saul & Breaking Bad](https://images2.imgbox.com/2a/65/kBMFVkj3_o.jpg)
+[![My Favorite Stories Preview](./my-favorite-stories-preview.jpg "Browse My Favorite Stories")](https://cemcelikgh.github.io/my-favorite-stories/)
